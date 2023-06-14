@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "serial_rtc.kicad")(type "KiCad")(uri "${KIPRJMOD}/serial_rtc.kicad.pretty")(options "")(descr ""))
+)
