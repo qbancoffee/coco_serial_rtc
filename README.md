@@ -6,6 +6,8 @@ Whith the appropriate commands from the CoCo, one can get the date/time or one c
 
 The board was designed using KiCAD 6 and the firmware was written in C and compiled with the [CCS C Compiler](https://www.ccsinfo.com/compilers.php).
 
+## How it works
+add stuff here.
 
 ## CoCo Serial RTC
 - [Schematic](coco_serial_rtc_schematic.pdf)
