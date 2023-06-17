@@ -6,4 +6,14 @@ Whith the appropriate commands from the CoCo, one can get the date/time or one c
 
 The board was designed using KiCAD 6 and the firmware was written in C and compiled with "PLACE DEV ENV NAME HERE"
 
-I'll add more info later on.
+
+## CoCo Serial RTC
+- [Schematic](coco_serial_rtc_schematic.pdf)
+- [Rendered Image](images/coco_serial_rtc_top.png)
+- [Picture](images/coco_serial_rtc.jpg)
+### Current status
+- [x] Ordered
+- [x] Assembled
+- [x] Testing
+
+The board is still in the prototype stage but so far things look promising.
